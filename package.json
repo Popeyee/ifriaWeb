@@ -1,6 +1,6 @@
 {
   "name": "ifria_web",
-    "homepage": "https://Popeyee.github.io/ifriaWeb",
+  "homepage": "https://Popeyee.github.io/ifriaWeb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
