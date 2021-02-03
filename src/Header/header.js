@@ -8,11 +8,11 @@ import logo from "../Images/logo.png"
 
 const Header = () => {
 	return(
-		<div className="flex cont fw9 f3 cover ">
+		<div className="flex flex flex-column cont fw9 f3 cover ">
+		<div className="flex ">
 		<img className="top-logo grow" src={logo} alt="logo" /> 
-				
-				 			    	
-			<header class=" w-100 ph3 pv3 pv4-ns ph4-m ph5-l">	
+						 			    	
+			<div class=" w-100 ph3 pv3 pv4-ns ph4-m ph5-l">	
 			  <nav class=" f6 fw6 ttu tracked fr">
 			    <a class="link dim dib mr3" href="#ss" title="Home">Home</a>
 			    <a class="link dim dib mr3" href="#ss" title="About">About us</a>
@@ -22,7 +22,8 @@ const Header = () => {
 			    <a class="link dim dib mr3" href="#ss" title="Contact">Become an investor</a>
 			    <a class="link dim dib" href="#ss" title="Contact">Contact</a>
 			  </nav>
-			</header>	
+			</div>	
+		</div>
 
 			
       		  <div className="flex flex-column header-main mr3  " >
