@@ -1,0 +1,131 @@
+.cont {
+	animation: animate 15s  infinite;
+	height: 840px;
+	width: 100%;
+	background-position: center;
+	background-repeat: no-repeat;
+	font-family: baskerville,
+               serif;
+}
+
+@keyframes animate{
+  0%,100%{
+    background-image: url(../Images/bg.png);
+  }
+  25%{
+    background-image: url(../Images/bg2.png);
+  }
+  50%{
+    background-image: url(../Images/bg3.png);
+  }
+}
+
+.topbar{
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+  align-content: flex-start;
+  height: 100%;
+
+}
+
+.list{
+  height: 100px;
+  justify-content: flex-end;
+}
+
+.top-logo{
+  /*display: flex;*/
+  position: absolute;
+  top:50px;
+  left: 90px;
+}
+
+/* .nav-link{
+    font-family: 'Roboto';
+    font-style: italic;
+    font-size: 18px;
+    color: #052b3a !important;
+  }
+  .nav-link:hover {
+  transform: scale(1.1); 
+  color: yellow;
+}*/
+
+
+.header-main{
+  position: absolute;
+  right: 0px;
+  height: auto;
+  width: auto;
+  top: 300px;
+  color: #052B3A;
+}
+
+.header-title{
+	font-size: 45px;
+	font-family: baskerville,
+               serif;
+    color: #052b3a;
+
+}
+
+.header-sec{
+	/*position: absolute;
+	right: 100px;*/
+	font-family: Courier,
+               serif;
+    font-weight:normal;           
+}
+
+
+.link{
+	color: #052b3a;
+}
+.link:hover {
+	color: green;
+    transition: .15s ease-in;
+}
+.link:focus {
+    transition: .15s ease-in;
+    outline: 3px dotted currentColor;
+
+}
+@media screen and (min-width: 30em) {
+    .pv4-ns {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+    }
+}
+
+@media screen and (min-width: 30em) and (max-width: 60em) {
+    .ph4-m {
+        padding-left: 2rem;
+        padding-right: 2rem;
+    }
+}
+
+@media screen and (min-width: 60em) {
+    .ph5-l {
+        padding-left: 4rem;
+        padding-right: 4rem;
+    }
+}
+
+@media (--breakpoint-not-small) {
+  .fl-ns { float: left; _display: inline; }
+  .fr-ns { float: right; _display: inline; }
+  .fn-ns { float: none; }
+}
+
+@media (--breakpoint-medium) {
+  .fl-m { float: left; _display: inline; }
+  .fr-m { float: right; _display: inline; }
+  .fn-m { float: none; }
+}
+
+@media (--breakpoint-large) {
+  .fl-l { float: left; _display: inline; }
+  .fr-l { float: right; _display: inline; }
+  .fn-l { float: none; }
+}

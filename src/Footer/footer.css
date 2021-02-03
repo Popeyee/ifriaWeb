@@ -1,0 +1,62 @@
+.footer-cont{
+	background-image: url(../Images/footer.png);
+	height: 550px;
+	width: 100%;
+}
+
+.footer-button{
+	border-color: transparent;
+	background: #75ba19;
+	white-space: nowrap;
+}
+
+.other-button{
+	border-color: transparent;
+	white-space: nowrap;
+	background: linear-gradient(292deg, rgba(135,143,125,0.22032563025210083) 100%, rgba(0,0,0,0.7497373949579832) 100%);
+}
+
+a {
+  color: white;
+}
+
+a:hover {
+	color:green;
+}
+
+li{
+	padding: 5px;
+}
+
+.footer-logo{
+	width: 180px;
+	height:60px;
+}
+
+h3{
+	color: grey;
+}
+
+.social-logo{
+	height: 50px;
+	width: 50px;
+}
+
+.link-logo{
+	height: 15px;
+	width: 15px;
+}
+
+.footer-input{
+	height: 50px;
+	border-color: transparent;
+}
+
+.submit-button{
+	height: 40px;
+	background-color: transparent;
+	color: #75ba19;
+	border-color: #75ba19;
+}
+
+
