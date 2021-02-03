@@ -1,11 +1,39 @@
 .cont {
 	animation: animate 15s  infinite;
-	height: 900px;
+	height: 78vh;
 	width: 100%;
 	background-position: center;
 	background-repeat: no-repeat;
 	font-family: baskerville,
                serif;
+}
+
+@keyframes moveLeft{
+  0%{
+    opacity: 0;
+    transform: translateX(-100px);
+  }
+  80%{
+    transform: translateX(10px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes moveRight{
+  0%{
+    opacity: 0;
+    transform: translateX(50px);
+  }
+  80%{
+    transform: translateX(-10px);
+  }
+  100%{
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 
 @keyframes animate{
@@ -37,28 +65,16 @@
 .top-logo{
   /*display: flex;*/
   position: absolute;
-  top:50px;
+  top:5px;
   left: 90px;
 }
-
-/* .nav-link{
-    font-family: 'Roboto';
-    font-style: italic;
-    font-size: 18px;
-    color: #052b3a !important;
-  }
-  .nav-link:hover {
-  transform: scale(1.1); 
-  color: yellow;
-}*/
-
 
 .header-main{
   position: absolute;
   right: 0px;
   height: auto;
   width: auto;
-  top: 300px;
+  top: 200px;
   color: #052B3A;
 }
 
@@ -66,8 +82,9 @@
 	font-size: 45px;
 	font-family: baskerville,
                serif;
-    color: #052b3a;
-
+  color: #052b3a;
+  animation: moveLeft;
+  animation-duration: 3s;
 }
 
 .header-sec{
@@ -75,7 +92,10 @@
 	right: 100px;*/
 	font-family: Courier,
                serif;
-    font-weight:normal;           
+  font-weight:normal;  
+  animation-name: moveRight;
+  animation-duration: 3s; 
+
 }
 
 
