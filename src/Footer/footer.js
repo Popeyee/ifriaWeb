@@ -12,10 +12,10 @@ import pinLogo from "../Images/pinLogo.png"
 
 const Footer = () => {
 	return(
-		<div className="footer-cont ba flex">
+		<div className="footer-cont  flex">
 
 								{/*----------side_1----------*/}
-			<div className="about-side1 flex flex-column ba w-40 pt4">
+			<div className="about-side1 flex flex-column  w-40 pt4">
 				<button type="button" 
 						class="footer-button f5 grow no-underline br-pill ph5 pv3 mb2 dib white b w5 center ttc">About us</button>
 				
@@ -47,7 +47,7 @@ const Footer = () => {
 
 								{/*----------side_2----------*/}
 			
-			<div className=" flex flex-column ba w-20 pt4">
+			<div className=" flex flex-column  w-20 pt4">
 				<button type="button" 
 						class="footer-button f5 grow no-underline br-pill ph5 pv3 mb2 dib white b w5 center ttc">Links</button>		
 			
