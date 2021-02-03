@@ -69,9 +69,10 @@ const Offer = () => {
 			<p className="sec-title b " > Cold Chain Services for Farmers</p>
 			<p className=" i"> We offer On-Farm Post Harvest Cooling Solutions and Technical 
 								 Assistance to farmers  </p>
-								 
+							 
 			<img className="" src={clouds} alt="clouds"/>
 			<img className="offerCycle grow" src={offerCycle} alt="offerCycle"/>						 
+			
 			</div>
 
 

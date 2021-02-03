@@ -27,7 +27,7 @@ const Header = () => {
 
 			
       		  <div className="flex flex-column header-main mr3  " >
-      		  	<p className="header-title  b"> INTEGRATED COLD CHAIN</p>
+      		  	<p className="header-title  b"> NTEGRATED COLD CHAIN</p>
       		  	<p className="header-sec f5 lh-copy measure center tj w8"> Ifria is an Integrated Cold Chain Company in North and West 
       		  		African markets. Ifria’s mission is to develop new, modern and efficient perishable product storage capacities that 
       		  		can more efficiently serve the growing and rapidly changing needs of the Panafrican markets. </p>
