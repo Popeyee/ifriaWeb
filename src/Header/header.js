@@ -8,7 +8,7 @@ import logo from "../Images/logo.png"
 
 const Header = () => {
 	return(
-		<div className="cont fw9 f3 cover ">
+		<div className="flex cont fw9 f3 cover ">
 		<img className="top-logo grow" src={logo} alt="logo" /> 
 				
 				 			    	

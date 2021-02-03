@@ -1,8 +1,11 @@
-/*.footer-cont{
+.footer-cont{
 	background-image: url(../Images/footer.png);
 	height: 550px;
 	width: 100%;
-}*/
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
 
 .footer-button{
 	border-color: transparent;

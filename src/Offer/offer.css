@@ -6,7 +6,10 @@
 .title-cont{
 	width: 100%;
 	height:250px;
-	/*background-image: url(../Images/offer.png)*/;
+	background-image: url(../Images/offer.png);
+	background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 .heeader-main{
   position: absolute;

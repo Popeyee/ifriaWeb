@@ -50,7 +50,7 @@ const Offer = () => {
 
 
 							{/*---------- WHAT WE OFFER ----------*/}
-			<div className="title-cont bg-dark-green">
+			<div className="title-cont ">
       		  	<p className="heeader-title b white pt3 ttu ">What We Offer?</p>
       		  	<h5 className=" white pt1 f2 i">Integrated Impact Model</h5>
       		  	<h5 className=" white pt2 ">Ifria Offer Integrated Cold Chain Solutions 
