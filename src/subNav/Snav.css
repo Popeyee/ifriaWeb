@@ -1,0 +1,44 @@
+.navLogo{
+	position: absolute;
+	left: 0px;
+	top:0px;
+}
+
+.dots{
+	position: absolute;
+	width: 300px;
+	right: 0px;
+	top: 130px;
+}
+
+.coldCont{
+	height: 30vh;
+}
+
+@media only screen and (max-width: 600px)
+{
+	.navLogo{
+		/*height: 100px;*/
+		display: none;
+	}
+	.dots{
+		display: none;
+	}
+	.coldCont{
+		height: 20vh;
+	}
+	.Snavi{
+		background: linear-gradient(0deg, rgba(4,252,255,0.28755252100840334) 0%, rgba(29,255,0,0.32396708683473385) 100%);
+
+	}
+	.link{
+		padding: 10px;
+		border-style: round;
+
+	
+	}
+}
+
+
+
+

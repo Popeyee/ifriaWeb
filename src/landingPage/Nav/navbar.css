@@ -1,0 +1,31 @@
+/*.navbar{
+background: linear-gradient(292deg, rgba(18,158,230,0.35) 28%, rgba(21,209,57,0.35477941176470584) 76%);
+}*/
+
+.link{
+	color: #052b3a;
+}
+.link:hover {
+	color: green;
+    transition: .15s ease-in;
+}
+.link:focus {
+    transition: .15s ease-in;
+    outline: 3px dotted currentColor;
+}
+
+.top-logo{
+  /*display: flex;*/
+  position: absolute;
+  top:5px;
+  left: 90px;
+}
+@media only screen and (max-width: 600px)
+{
+  .top-logo {
+    left:35%;
+    width: 100px;
+    padding-bottom: 50px;
+  }
+  
+}
