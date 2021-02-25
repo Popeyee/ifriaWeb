@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ifriaWeb/static/css/main.cd1b9767.chunk.css",
+    "main.css": "/ifriaWeb/static/css/main.b10cb8b5.chunk.css",
     "main.js": "/ifriaWeb/static/js/main.7745ce8f.chunk.js",
     "main.js.map": "/ifriaWeb/static/js/main.7745ce8f.chunk.js.map",
     "runtime-main.js": "/ifriaWeb/static/js/runtime-main.736da205.js",
@@ -12,7 +12,7 @@
     "static/js/3.5ba2db08.chunk.js.map": "/ifriaWeb/static/js/3.5ba2db08.chunk.js.map",
     "index.html": "/ifriaWeb/index.html",
     "static/css/2.4298d9b2.chunk.css.map": "/ifriaWeb/static/css/2.4298d9b2.chunk.css.map",
-    "static/css/main.cd1b9767.chunk.css.map": "/ifriaWeb/static/css/main.cd1b9767.chunk.css.map",
+    "static/css/main.b10cb8b5.chunk.css.map": "/ifriaWeb/static/css/main.b10cb8b5.chunk.css.map",
     "static/js/2.f27d5e67.chunk.js.LICENSE.txt": "/ifriaWeb/static/js/2.f27d5e67.chunk.js.LICENSE.txt",
     "static/media/b1.a0bd618f.png": "/ifriaWeb/static/media/b1.a0bd618f.png",
     "static/media/b2.fc82d4d5.png": "/ifriaWeb/static/media/b2.fc82d4d5.png",
@@ -46,7 +46,7 @@
     "static/js/runtime-main.736da205.js",
     "static/css/2.4298d9b2.chunk.css",
     "static/js/2.f27d5e67.chunk.js",
-    "static/css/main.cd1b9767.chunk.css",
+    "static/css/main.b10cb8b5.chunk.css",
     "static/js/main.7745ce8f.chunk.js"
   ]
 }
