@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/ifriaWeb/static/css/main.602a48b4.chunk.css",
-    "main.js": "/ifriaWeb/static/js/main.a7174f7f.chunk.js",
-    "main.js.map": "/ifriaWeb/static/js/main.a7174f7f.chunk.js.map",
+    "main.css": "/ifriaWeb/static/css/main.cd1b9767.chunk.css",
+    "main.js": "/ifriaWeb/static/js/main.7745ce8f.chunk.js",
+    "main.js.map": "/ifriaWeb/static/js/main.7745ce8f.chunk.js.map",
     "runtime-main.js": "/ifriaWeb/static/js/runtime-main.736da205.js",
     "runtime-main.js.map": "/ifriaWeb/static/js/runtime-main.736da205.js.map",
     "static/css/2.4298d9b2.chunk.css": "/ifriaWeb/static/css/2.4298d9b2.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.5ba2db08.chunk.js.map": "/ifriaWeb/static/js/3.5ba2db08.chunk.js.map",
     "index.html": "/ifriaWeb/index.html",
     "static/css/2.4298d9b2.chunk.css.map": "/ifriaWeb/static/css/2.4298d9b2.chunk.css.map",
-    "static/css/main.602a48b4.chunk.css.map": "/ifriaWeb/static/css/main.602a48b4.chunk.css.map",
+    "static/css/main.cd1b9767.chunk.css.map": "/ifriaWeb/static/css/main.cd1b9767.chunk.css.map",
     "static/js/2.f27d5e67.chunk.js.LICENSE.txt": "/ifriaWeb/static/js/2.f27d5e67.chunk.js.LICENSE.txt",
     "static/media/b1.a0bd618f.png": "/ifriaWeb/static/media/b1.a0bd618f.png",
     "static/media/b2.fc82d4d5.png": "/ifriaWeb/static/media/b2.fc82d4d5.png",
@@ -20,7 +20,7 @@
     "static/media/b4.639bddfe.png": "/ifriaWeb/static/media/b4.639bddfe.png",
     "static/media/header.css": "/ifriaWeb/static/media/bg3.860ebc59.png",
     "static/media/busLogo.ed3f1863.png": "/ifriaWeb/static/media/busLogo.ed3f1863.png",
-    "static/media/clouds.2ad66157.png": "/ifriaWeb/static/media/clouds.2ad66157.png",
+    "static/media/clouds.41cf8956.png": "/ifriaWeb/static/media/clouds.41cf8956.png",
     "static/media/clouds2.d43d92ef.png": "/ifriaWeb/static/media/clouds2.d43d92ef.png",
     "static/media/f1.3e9133a9.png": "/ifriaWeb/static/media/f1.3e9133a9.png",
     "static/media/f2.07b1f1cc.png": "/ifriaWeb/static/media/f2.07b1f1cc.png",
@@ -29,6 +29,7 @@
     "static/media/footer.css": "/ifriaWeb/static/media/footer.f6571bd9.png",
     "static/media/where.css": "/ifriaWeb/static/media/gradient.3bca895d.png",
     "static/media/map.f0609c54.png": "/ifriaWeb/static/media/map.f0609c54.png",
+    "static/media/offer.css": "/ifriaWeb/static/media/offer.9b051399.png",
     "static/media/offerCycle.efe2ac2a.png": "/ifriaWeb/static/media/offerCycle.efe2ac2a.png",
     "static/media/index.css": "/ifriaWeb/static/media/poppins-latin-900italic.babad407.woff2",
     "static/media/styles.css": "/ifriaWeb/static/media/revicons.e8746a62.woff",
@@ -45,7 +46,7 @@
     "static/js/runtime-main.736da205.js",
     "static/css/2.4298d9b2.chunk.css",
     "static/js/2.f27d5e67.chunk.js",
-    "static/css/main.602a48b4.chunk.css",
-    "static/js/main.a7174f7f.chunk.js"
+    "static/css/main.cd1b9767.chunk.css",
+    "static/js/main.7745ce8f.chunk.js"
   ]
 }
